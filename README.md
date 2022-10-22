@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gigiogomes
 - 👀 I’m interested in data science and computational engineering
 - 🌱 I’m currently learning machine learning
-- <!--- 
+<!----  
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
